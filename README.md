@@ -11,6 +11,7 @@ This is my own config for a lightweight and minimal workflow
 + bar: waybar
 + background: swaybg
 + apps menu: rofi-wayland
++ font: JetBrainsMono
 
 > sorry for my bad english :)
 ![screenshot](/BlackNWhite/Backgrounds/screenshot.png)
