@@ -13,4 +13,4 @@ This is my own config for a lightweight and minimal workflow
 + apps menu: rofi-wayland
 
 > sorry for my bad english :)
-![screenshot](https://raw.githubusercontent.com/Gbdz10/Hyprconfig/refs/heads/main/BlackNWhite/Backgrounds/screenshot.png)
+![screenshot](/BlackNWhite/Backgrounds/screenshot.png)
